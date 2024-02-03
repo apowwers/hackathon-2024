@@ -226,7 +226,11 @@ body, html {
 }
 
 .input-area {
+  font-family: 'JetBrains Mono';
+  
+  padding-top: 5px;
   padding-bottom: 4%;
+  padding-left: 10px;
   margin-top: 20px;
 
   margin-left: 15%;
